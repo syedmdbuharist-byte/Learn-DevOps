@@ -9,6 +9,7 @@ echo "Current User: $(whoami)"
 
 # 2. Check system uptime
 echo "System Uptime: $(uptime -p)"
+echo "Report Generated: $(date)"
 
 # 3. Check available memory (RAM)
 echo "Available Memory:"
