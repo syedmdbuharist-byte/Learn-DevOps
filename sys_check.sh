@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "=============================="
-echo "   SYSTEM HEALTH REPORT       "
+echo "   CLOUD HEALTH REPORT       "
 echo "=============================="
 
 # 1. Check current logged-in user
